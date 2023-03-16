@@ -11,7 +11,7 @@ import {
   Price,
   SkillsWrapper,
   Skill,
-  Availability
+  Availability,
 } from './style'
 
 class Profile extends Component {
